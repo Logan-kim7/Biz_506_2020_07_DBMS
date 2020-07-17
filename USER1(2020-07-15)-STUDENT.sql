@@ -17,7 +17,7 @@ CREATE TABLE tbl_student (
 );
 
 DROP TABLE tbl_student;
-
+DROP TABLE tbl_dept;
 
 SELECT * FROM tbl_student;
 
